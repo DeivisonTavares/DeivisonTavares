@@ -1,16 +1,12 @@
-### Hi there 👋
+### Prazer,eu sou o DeivisonTavares!🐱‍👤 ###
 
-<!--
-**DeivisonTavares/DeivisonTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Eu sou estudante de ciência da computação
+- 🌱 Estudo Java Script,HTML e CSS
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="DeivisonTavares-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="DeivisonTavares-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="DeivisonTavares-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/870473180945457202/1104638777529479248/IMG_20211124_001625_16451.jpg?width=459&height=459">
+</div>
