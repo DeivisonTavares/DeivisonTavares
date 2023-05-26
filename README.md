@@ -1,7 +1,7 @@
 ### Prazer,eu sou o DeivisonTavares!🐱‍👤 ###
 
-- 🔭 Eu sou estudante de ciência da computação
-- 🌱 Estudo Java Script,HTML e CSS
+- 📚 Eu sou estudante de ciência da computação
+- 👓 Estudo Java Script,HTML e CSS
 - 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
