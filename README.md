@@ -34,13 +34,13 @@ Atualmente estou no **5º semestre de Ciência da Computação** e sou apaixonad
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeivisonTavares&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DeivisonTavares&theme=tokyonight"/>
 </div>
 
 ---
 
 ## 🚀 Entre em contato comigo:
-📩 Email: **seuemail@example.com**  
+📩 Email: **deivisontavaresdev@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/deivison-ryan-brito-tavares-34380a312/)  
 🌎 [Portfólio](https://seu-portfolio.com)  
 
