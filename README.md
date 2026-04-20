@@ -1,36 +1,15 @@
-# 💻 Olá, eu sou Deivison Tavares! Bem-vindo ao meu perfil! 🚀
+### 🛠️ Technologies & Tools
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-
-## 🧑‍💻 Sobre mim
-Atualmente estou no **5º semestre de Ciência da Computação** e sou apaixonado por tecnologia, café, desenvolvimento de software e boas práticas de código.
-
-- 🎯 **Linguagens de programação:**  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-- 🎨 **Tecnologias para front-end:**  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-
-- ⚡ **Tecnologias para back-end:**  
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-- 🗃️ **Banco de dados:**  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-- 🔧 **Versionamento e DevOps:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-  ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+| Frameworks & Languages | Database & OS | Tools & DevOps |
+| :--- | :--- | :--- |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9431E?style=flat-square&logo=ubuntu&logoColor=white) | ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 📈 Contribution Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeivisonTavares&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -39,9 +18,17 @@ Atualmente estou no **5º semestre de Ciência da Computação** e sou apaixonad
 
 ---
 
-## 🚀 Entre em contato comigo:
-📩 Email: **deivisontavaresdev@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/deivison-ryan-brito-tavares-34380a312/)  
-🌎 [Portfólio](https://seu-portfolio.com)  
+### 🚀 Let's Connect
 
-✨ *Sempre em busca de novos desafios e aprendizados!*  
+Always open to new projects, Open Source collaborations, or just a good coffee and a chat about technology.
+
+📩 **Email:** [deivisontavaresdev@gmail.com](mailto:deivisontavaresdev@gmail.com)  
+💼 **LinkedIn:** [Deivison Ryan](https://www.linkedin.com/in/deivison-ryan-brito-tavares-34380a312/)  
+
+---
+
+<div align="center">
+  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/linux.png" /> <br>
+  <i>"Begin the day with a friendly voice, a symphony of lighted pulses."</i> <br>
+  <b>— Rush</b>
+</div>
